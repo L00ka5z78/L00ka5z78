@@ -4,11 +4,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Im aspiring software developer i like to explore new technologies.
+- 🤔 &nbsp; Im aspiring software developer and i like to explore new technologies.
 - 🎓 &nbsp; Learning JavaScript and most useful things which are used to buid complete applications.
-- 💼 &nbsp; Like backend most but i try to solve all kind of problem during coding process.
-- 🌱 &nbsp; Im doing my best to code and learn as much as possible as daily life allows me.
-- ✍️ &nbsp; Im on complete JS course (JS, node, express, mysql, mongoDb, TypeScript, React) and write projects on my own too. 
+- 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
+- 🌱 &nbsp; Im doing my best to code and learn new things.
+- ✍️ &nbsp; Im on complete JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) and write projects on my own too.
+- And of course Im still in process learning, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
