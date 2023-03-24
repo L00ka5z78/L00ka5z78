@@ -36,7 +36,7 @@
 - ![ExpressJS](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
- 
+ - 🌐 &nbsp;  https://www.linkedin.com/in/%C5%82ukasz-bolach/
 
 <br/>
 
