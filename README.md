@@ -14,6 +14,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+- HTML5 CSS JavaScript, Typescript, NestJs, NodeJs, ExpressJs, React, MongoDB, MySQL
+- GIT, Github
 
  
  
@@ -32,7 +34,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Webstorm](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 [Typescripr, Nest, ExpressJs &nbsp;
+- 🔧 &nbsp;
 - ![ExpressJS](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
