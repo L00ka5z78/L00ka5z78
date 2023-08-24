@@ -9,8 +9,8 @@
 - 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
 - 🌱 &nbsp; Im doing my best to code and learn new things.
 - ✍️ &nbsp; I have completed full JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) after sumbitting my final project, I worked in group project to simulate real work environment (SCRUM, delivering tasks in estimated time and so on). And it was very nice experiance how it looks in 'real' work.
-- In addition I write projects on my own too to extend my potentil skills all the time.
-- And of course Im still in process learning, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
+- In addition I write projects on my own too to extend my skills.
+- And of course Im still in  learning process, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
