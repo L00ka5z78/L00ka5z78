@@ -8,7 +8,8 @@
 - 🎓 &nbsp; Learning JavaScript and most useful things which are used to buid complete applications.
 - 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
 - 🌱 &nbsp; Im doing my best to code and learn new things.
-- ✍️ &nbsp; Im on complete JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) and write projects on my own too.
+- ✍️ &nbsp; I have completed full JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) after sumbitting my final project, I worked in group project to simulate real work environment (SCRUM, delivering tasks in estimated time and so on). And it was very nice experiance how it looks in 'real' work.
+- In addition I write projects on my own too to extend my potentil skills all the time.
 - And of course Im still in process learning, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
