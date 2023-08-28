@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Im aspiring software developer and i like to explore new technologies.
-- 🎓 &nbsp; Learning JavaScript and most useful things which are used to buid complete applications.
+- 🤔 &nbsp; I'm aspiring software developer and i like to explore new technologies.
+- 🎓 &nbsp; Learning JavaScript and most useful things which are used to build complete applications.
 - 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
 - 🌱 &nbsp; Im doing my best to code and learn new things.
 - ✍️ &nbsp; I have completed full JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) after sumbitting my final project, I worked in group project to simulate real work environment (SCRUM, delivering tasks in estimated time and so on). And it was very nice experiance how it looks in 'real' work.
