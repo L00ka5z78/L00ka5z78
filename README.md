@@ -5,10 +5,15 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I'm aspiring software developer and i like to explore new technologies.
-- 🎓 &nbsp; Learning JavaScript and most useful things which are used to build complete applications.
+- 🎓 &nbsp; Now I am learning PHP and most useful things within PHP eccosystem used to build complete applications.
+- I just begun, but Im totally overhelmed how useful it is. Feel sorry, that I didnt find it earlier.
 - 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
 - 🌱 &nbsp; Im doing my best to code and learn new things.
 - ✍️ &nbsp; I have completed full JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) after sumbitting my final project, I worked in group project to simulate real work environment (SCRUM, delivering tasks in estimated time and so on). And it was very nice experiance how it looks in 'real' work.
+
+- I also completed Harvard CS50 introducion to computer science where I gained loads of knowledge which is usefull in solving coding challenges.
+  https://pll.harvard.edu/course/cs50-introduction-computer-science
+  
 - In addition I write projects on my own too to extend my skills.
 - And of course Im still in  learning process, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
 
@@ -16,7 +21,7 @@
 
 - 💻 &nbsp;
 - HTML5 CSS JavaScript, Typescript, NestJs, NodeJs, ExpressJs, React, MongoDB, MySQL
-- GIT, Github
+- GIT, Github, PHP
 
  
  
