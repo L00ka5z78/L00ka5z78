@@ -1,50 +1,34 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Lukas.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 About Me
 
-- 🤔 &nbsp; I'm aspiring software developer and i like to explore new technologies.
-- 🎓 &nbsp; Now I am learning PHP and most useful things within PHP eccosystem used to build complete applications.
-- I just begun, but Im totally overhelmed how useful it is. Feel sorry, that I didnt find it earlier.
+- 👨🏻‍💻 Aspiring software developer exploring new technologies.
 - 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
 - 🌱 &nbsp; Im doing my best to code and learn new things.
 - ✍️ &nbsp; I have completed full JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) after sumbitting my final project, I worked in group project to simulate real work environment (SCRUM, delivering tasks in estimated time and so on). And it was very nice experiance how it looks in 'real' work.
+- 🎓 Currently learning PHP and building complete applications.
+- 🤝 Collaborated on a group project using SCRUM methodology.
+- 💡 Completed Harvard CS50 Introduction to Computer Science.
+- 🚀 Continuously learning and expanding my skillset.
+### 🛠 Tech Stack
 
-- I also completed Harvard CS50 introducion to computer science where I gained loads of knowledge which is usefull in solving coding challenges.
-  https://pll.harvard.edu/course/cs50-introduction-computer-science
-  
-- In addition I write projects on my own too to extend my skills.
-- And of course Im still in  learning process, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
+**Languages:**
+- HTML5, CSS, JavaScript, TypeScript, PHP
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+**Back-End:**
+- Node.js, Express.js, NestJs
 
-- 💻 &nbsp;
-- HTML5 CSS JavaScript, Typescript, NestJs, NodeJs, ExpressJs, React, MongoDB, MySQL
-- GIT, Github, PHP
+**Front-End:**
+- React
 
- 
- 
-  
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Webstorm](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-- ![ExpressJS](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+**Databases:**
+- MySQL, MongoDB
 
- - 🌐 &nbsp;  https://www.linkedin.com/in/%C5%82ukasz-bolach/
+**Version Control:**
+- Git, GitHub
+
+**Development Tools:**
+- Visual Studio Code, Webstorm
 
 <br/>
 
@@ -53,6 +37,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L00ka5z78&theme=buefy&layout=compact" />
 </a>
 
-
 <br/>
-
