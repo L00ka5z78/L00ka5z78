@@ -29,6 +29,9 @@
 
 **Development Tools:**
 - Visual Studio Code, Webstorm
+- 🌐 LinkedIn &nbsp; https://www.linkedin.com/in/%C5%82ukasz-bolach/
+
+- 🌐 Portfolio https://l00ka5z78.github.io/my-portfolio-page/
 
 <br/>
 
