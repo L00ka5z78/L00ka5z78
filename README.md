@@ -5,12 +5,11 @@
 - 👨🏻‍💻 Software developer who likes exploring new technologies.
 -  Working as Full Stack PHP developer for Regess Sp. z o.o.
 - 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
-- 🌱 &nbsp; Im doing my best to code and learn new things.
-- ✍️ &nbsp; I have completed full JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) after sumbitting my final project, I worked in group project to simulate real work environment (SCRUM, delivering tasks in estimated time and so on). And it was very nice experiance how it looks in 'real' work.
-- 🎓 Currently working with PHP and building complete applications.
-- 🤝 Collaborated on a group project using SCRUM methodology.
-- 💡 Completed Harvard CS50 Introduction to Computer Science.
-- 🚀 Continuously learning and expanding my skillset.
+- 🌱 &nbsp; Im doing my best to code and learn new things. 
+- 🎓 Daily working with PHP and building complete applications.
+- 🤝 
+- 💡 Completed Harvard CS50 Introduction to Computer Science
+- 🚀 
 ### 🛠 Tech Stack
 
 **Languages:**
