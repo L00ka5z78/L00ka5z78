@@ -3,20 +3,18 @@
 ### 👨🏻‍💻 About Me
 
 - 👨🏻‍💻 Software developer who likes exploring new technologies.
--  Working as Full Stack PHP developer for Regess Sp. z o.o.
-- 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
-- 🌱 &nbsp; Im doing my best to code and learn new things. 
+-  Working as Full Stack PHP developer.
+- 💼 &nbsp; 
 - 🎓 Daily working with PHP and building complete applications.
 - 🤝 
-- 💡 Completed Harvard CS50 Introduction to Computer Science
 - 🚀 
 ### 🛠 Tech Stack
 
 **Languages:**
-- HTML5, CSS, JavaScript, TypeScript, PHP, jQuery
+- HTML5, CSS, JavaScript, TypeScript,  jQuery
 
 **Back-End:**
-- Node.js, Express.js, NestJs
+- Node.js, Express.js, NestJs, PHP
 
 **Front-End:**
 - React, Smarty
