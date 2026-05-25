@@ -1,41 +1,40 @@
-<h2> Hey there! I'm Lukas.</h2>
+<h2>Hey there! I'm Lukas. 👋</h2>
 
 ### 👨🏻‍💻 About Me
 
-- 👨🏻‍💻 Software developer who likes exploring new technologies.
--  Working as Full Stack PHP developer.
-- 💼 &nbsp; 
-- 🎓 Daily working with PHP and building complete applications.
-- 🤝 
-- 🚀 
+- 💼 Working as a **Full Stack PHP Developer & IT Specialist**.
+- ⚙️ Bridging the gap between development and infrastructure — managing servers, deployments, and IT operations.
+- 🚀 Passionate about clean code, automation, and system reliability.
+- 🤝 Open to collaborating on both web development and DevOps/SysAdmin projects.
+
 ### 🛠 Tech Stack
 
-**Languages:**
-- HTML5, CSS, JavaScript, TypeScript,  jQuery
-
-**Back-End:**
-- Node.js, Express.js, NestJs, PHP
+**Languages & Back-End:**
+- PHP, Laravel, Node.js, Express.js, JavaScript
 
 **Front-End:**
-- React, Smarty
+- React, Smarty, HTML5, CSS, jQuery
 
 **Databases:**
-- MySQL, MongoDB, AdoDB
+- MySQL, MongoDB, AdoDB, MsSQL
 
-**Version Control:**
-- Git, GitHub
+**SysAdmin & DevOps:**
+- Linux (Ubuntu/Debian/Ubuntu Server), Bash scripting, Nginx / Apache
+- Docker, Cron, Windows Server, Prometheus, Grafana
 
-**Development Tools:**
-- Visual Studio Code, Webstorm
-- 🌐 LinkedIn &nbsp; https://www.linkedin.com/in/%C5%82ukasz-bolach/
+**Tools & Version Control:**
+- Git, GitHub, Visual Studio Code, WebStorm
 
-- 🌐 Portfolio https://l00ka5z78.github.io/my-portfolio-page/
+---
+
+### 🌐 Connect with me
+
+- 💼 **LinkedIn:** [Łukasz Bołach](https://www.linkedin.com/in/%C5%82ukasz-bolach/)
+- 💻 **Portfolio:** [l00ka5z78.github.io](https://l00ka5z78.github.io/my-portfolio-page/)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00ka5z78&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L00ka5z78&theme=buefy&layout=compact" />
+<a href="https://github.com/L00ka5z78">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00ka5z78&theme=buefy&show_icons=true" alt="Lukas's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L00ka5z78&theme=buefy&layout=compact" alt="Top Languages" />
 </a>
-
-<br/>
