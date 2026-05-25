@@ -29,7 +29,7 @@
 
 ### 🌐 Connect with me
 
-- 💼 **LinkedIn:** [Łukasz Bołach](https://www.linkedin.com/in/%C5%82ukasz-bolach/)
+- 💼 **LinkedIn:** [Łukasz Bolach](https://www.linkedin.com/in/%C5%82ukasz-bolach/)
 - 💻 **Portfolio:** [l00ka5z78.github.io](https://l00ka5z78.github.io/my-portfolio-page/)
 
 <br/>
